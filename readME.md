@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=VladMaska&fontSize=90)
-<h1 align="center">Hi 👋, I'm VladMaska</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=VladMaska&fontSize=90)
+<!-- <h1 align="center">Hi 👋, I'm VladMaska</h1> -->
 
-<!-- <h3 align="center">I'm a Gamer, Game Developer, Student</h3> -->
+<h3 align="center">I'm a Gamer, Game Developer, Student</h3>
 
 <br />
 <h3 align="left">Languages and Tools:</h3>
